@@ -76,4 +76,4 @@ Trend Analysis: Enables year-over-year performance comparison
 
 8. Screenshots
 Dashboard Overview
-(https://github.com/PolishettyBalaArun/Chocolate-Shipments-Dashboard/blob/main/dashboard.png)
+![Dashboard Preview](https://github.com/PolishettyBalaArun/Chocolate-Shipments-Dashboard/blob/main/dashboard.png)
